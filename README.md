@@ -1,7 +1,7 @@
 Tomcat 7 Bundle
 ===============
 
-This project takes tomcat 7.x. zip and expands on it to provide the following.
+This project takes tomcat 7.0.109 zip and expands on it to provide the following.
 
 - Tomcat-slf4j-logback integration
 - Logback Access integration
