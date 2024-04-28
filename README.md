@@ -11,3 +11,5 @@ This project takes tomcat 7.0.109 zip and expands on it to provide the following
 - Setup for https
 - Setup for psi probe
 - And if you want, drop back in tomcat wars and those are preconfigured as well but intentionally left out
+
+note: Credential usage here is simply for testing purposes only and should be considered exposed.
