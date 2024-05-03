@@ -198,8 +198,8 @@
                 <include>*:jakarta.activation</include>
                 <include>*:jakarta.annotation-api</include>
                 <include>*:jakarta.ejb-api</include>
-                <include>*:jakarta.el-api</include>
-                <include>*:jakarta.el</include>
+                <include>*:javax.el-api</include>
+                <include>*:javax.el</include>
                 <include>*:jakarta.interceptor-api</include>
                 <include>*:jakarta.jms-api</include>
                 <include>*:jakarta.mail</include>
