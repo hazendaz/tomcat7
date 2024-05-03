@@ -79,8 +79,8 @@
         <activation.version>1.2.2</activation.version>
         <annotation.version>1.3.5</annotation.version>
         <ejb.version>3.2.6</ejb.version>
-        <el-api.version>3.0.3</el-api.version>
-        <el-impl.version>3.0.4</el-impl.version>
+        <el-api.version>2.2.5</el-api.version>
+        <el-impl.version>2.2.6</el-impl.version>
         <interceptor.version>1.2.5</interceptor.version>
         <jms.version>2.0.3</jms.version>
         <mail.version>1.6.7</mail.version>
@@ -157,8 +157,8 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>jakarta.el</groupId>
-            <artifactId>jakarta.el-api</artifactId>
+            <groupId>javax.el</groupId>
+            <artifactId>javax.el-api</artifactId>
             <version>${el-api.version}</version>
             <scope>compile</scope>
         </dependency>
@@ -193,8 +193,8 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>org.glassfish</groupId>
-            <artifactId>jakarta.el</artifactId>
+            <groupId>org.glassfish.web</groupId>
+            <artifactId>javax.el</artifactId>
             <version>${el-impl.version}</version>
             <scope>compile</scope>
         </dependency>
